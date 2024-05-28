@@ -6,7 +6,7 @@ import Home from './components/Home';
 import AboutMe from './components/AboutMe';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
-import './styles.css';
+import './app.css';
 
 const { Header, Content, Footer } = Layout;
 
